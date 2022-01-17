@@ -1,2 +1,2 @@
 # my-simple-webapp-color
-Deploy application using Docekr
+Deploy application using Docker
