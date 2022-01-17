@@ -38,7 +38,7 @@ Open a browser and go to URL
 
 ## 5. Running from Docker 
 
-     docker build . -f Dockerfile -t my-simple-webapp-color
-     docker run -e APP_COLOR=blue -d my-simple-webapp-color
+     docker build . -f Dockerfile -t simple-webapp-flask-color
+     docker run -e APP_COLOR=blue -d simple-webapp-flask-color
 
     
